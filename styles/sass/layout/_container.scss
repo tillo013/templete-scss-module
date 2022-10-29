@@ -1,1 +1,9 @@
-
+.container{
+    // position: relative;
+    max-width: 1536px;
+    padding-left: 198px;
+    padding-right: 198px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}

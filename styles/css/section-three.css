@@ -1,0 +1,17 @@
+.section-three {
+  background-color: #014E56;
+  position: relative;
+  padding-bottom: 250px;
+  max-width: 1536px;
+  margin: 0 auto;
+}
+
+.section-three__item-text {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: center;
+  color: #FFFFFF;
+  width: 350px;
+}/*# sourceMappingURL=section-three.css.map */

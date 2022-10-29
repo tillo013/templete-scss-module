@@ -1,0 +1,72 @@
+.section-three{
+    background-color: #003F46;
+    position: relative;
+    padding-left: 198px;
+    padding-right: 198px;
+    padding-top: 140px;
+    padding-bottom: 150px;
+    max-width: 1536px;
+    margin: 0 auto;
+}
+.section-three__list{
+    display: flex;
+    justify-content: space-between;
+}
+.section-three__item{
+    width: 350px;
+}
+
+.section-three__item-text{
+    // font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.section-three__title{
+    // font-family: 'Livvic';
+    display: block;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 945px;
+    margin-left: 56px;
+    margin-bottom: 92px;
+}
+.section-three__person-name{
+    // font-family: 'Livvic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #79C8C7;
+    margin-left: 125px;
+}
+.section-three__person-position{
+    // font-family: 'Livvic';
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF; 
+}
+.section-three__person-img{
+    margin-left: 140px;
+    margin-top: 32px;
+}
+.section-three__square{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.section-three__figure1{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
